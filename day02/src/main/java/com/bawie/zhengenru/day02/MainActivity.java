@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.e("zer","zhengenru");
-
+        Log.e("zy","zhangying");
         Log.e("zer","lihaofan1");
         Log.e("zer","zhangenru1");
     }
