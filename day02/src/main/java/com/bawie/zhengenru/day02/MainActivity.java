@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
         Log.e("zer","lihaofan1");
         Log.e("zer","zhangenru1");
+        Log.e("zer","lihaofan");
     }
 }
