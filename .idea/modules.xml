@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lion.iml" filepath="$PROJECT_DIR$/Lion.iml" />
       <module fileurl="file://E:\DianshangXiangmu\Lion1\Lion.iml" filepath="E:\DianshangXiangmu\Lion1\Lion.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lion1.iml" filepath="$PROJECT_DIR$/Lion1.iml" />
+      <module fileurl="file://D:\android\projects\Lion\Lion1.iml" filepath="D:\android\projects\Lion\Lion1.iml" />
       <module fileurl="file://D:\android\projects\Lion\Zhengenru.iml" filepath="D:\android\projects\Lion\Zhengenru.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://E:\DianshangXiangmu\Lion1\app\app.iml" filepath="E:\DianshangXiangmu\Lion1\app\app.iml" />
-      <module fileurl="file://D:\android\projects\Lion\app\app.iml" filepath="D:\android\projects\Lion\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/day02/day02.iml" filepath="$PROJECT_DIR$/day02/day02.iml" />
       <module fileurl="file://E:\DianshangXiangmu\Lion1\day02\day02.iml" filepath="E:\DianshangXiangmu\Lion1\day02\day02.iml" />
       <module fileurl="file://D:\android\projects\Lion\day02\day02.iml" filepath="D:\android\projects\Lion\day02\day02.iml" />
       <module fileurl="file://$PROJECT_DIR$/xlistviewlibrary/xlistviewlibrary.iml" filepath="$PROJECT_DIR$/xlistviewlibrary/xlistviewlibrary.iml" />
-      <module fileurl="file://D:\android\projects\Lion\xlistviewlibrary\xlistviewlibrary.iml" filepath="D:\android\projects\Lion\xlistviewlibrary\xlistviewlibrary.iml" />
       <module fileurl="file://E:\DianshangXiangmu\Lion1\xlistviewlibrary\xlistviewlibrary.iml" filepath="E:\DianshangXiangmu\Lion1\xlistviewlibrary\xlistviewlibrary.iml" />
     </modules>
   </component>
