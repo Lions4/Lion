@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Lion.iml" filepath="$PROJECT_DIR$/Lion.iml" />
+      <module fileurl="file://D:\Users\Lenovo\Zhengenru\Lion.iml" filepath="D:\Users\Lenovo\Zhengenru\Lion.iml" />
       <module fileurl="file://E:\DianshangXiangmu\Lion1\Lion.iml" filepath="E:\DianshangXiangmu\Lion1\Lion.iml" />
       <module fileurl="file://D:\android\projects\Lion\Lion1.iml" filepath="D:\android\projects\Lion\Lion1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zhengenru.iml" filepath="$PROJECT_DIR$/Zhengenru.iml" />
       <module fileurl="file://D:\android\projects\Lion\Zhengenru.iml" filepath="D:\android\projects\Lion\Zhengenru.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://E:\DianshangXiangmu\Lion1\app\app.iml" filepath="E:\DianshangXiangmu\Lion1\app\app.iml" />
