@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         Log.e("zer","zhengenru");
 
         Log.e("zer","lihaofan");
+        Log.e("zer","zhengenru1");
     }
 }
